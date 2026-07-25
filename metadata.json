@@ -1,0 +1,11 @@
+﻿{
+	"name":	"Values Overhaul",
+	"id":	"values_overhaul",
+	"version":	"1.0.0",
+	"supported_game_version":	"1.1.0",
+	"short_description":	"Values Overhaul",
+	"tags":	["Fixes", "Overhaul"],
+	"relationships":	[],
+	"game_custom_data":	{
+}
+}
